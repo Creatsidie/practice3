@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/PracticeThree.iml" filepath="$PROJECT_DIR$/.idea/modules/PracticeThree.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/PracticeThree.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/PracticeThree.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/intentapp/PracticeThree.intentapp.iml" filepath="$PROJECT_DIR$/.idea/modules/intentapp/PracticeThree.intentapp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/resultapp/PracticeThree.resultapp.iml" filepath="$PROJECT_DIR$/.idea/modules/resultapp/PracticeThree.resultapp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/shareapp/PracticeThree.shareapp.iml" filepath="$PROJECT_DIR$/.idea/modules/shareapp/PracticeThree.shareapp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/simplefragmentapp/PracticeThree.simplefragmentapp.iml" filepath="$PROJECT_DIR$/.idea/modules/simplefragmentapp/PracticeThree.simplefragmentapp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/systemintentsapp/PracticeThree.systemintentsapp.iml" filepath="$PROJECT_DIR$/.idea/modules/systemintentsapp/PracticeThree.systemintentsapp.iml" />
+    </modules>
+  </component>
+</project>
